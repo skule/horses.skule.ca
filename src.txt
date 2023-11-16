@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>Only Karz we aknolage is Porsche</title>
+	
+	<style>
+	.spin {
+	    
+	    margin:-60px 0 0 -60px;
+	    -webkit-animation:spin 3s linear infinite;
+	    -moz-animation:spin 3s linear infinite;
+	    animation:spin 3s linear infinite;}
+	    @-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+	@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+	@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+	
+	.devs{
+	width:200px;
+	height:200px;
+	z-index:100;
+	}
+	</style>
+</head>
+<body style="background-position:center;background-size:auto 100%;background-repeat:no-repeat;background-image:url('http://i3.kym-cdn.com/photos/images/original/000/686/138/1a7.jpg')">
+<h1 >Meatspin</h1>
+
+<marquee style="padding-top:69px"><p><a href="http://toike.skule.ca"><img class="spin" title="This horse is dead. Click to beat." src="http://i671.photobucket.com/albums/vv76/Victim_06/Horse.png"></a></p></marquee>
+
+<h2>About</h2>
+<p>It all started with 4 guys, in the officem with a pacion. </p>
+<h3>Developers</h3>
+<marquee>
+<img class="devs spin" src="/images/mil.jpg">
+<img class="devs spin" src="/images/irisboy.jpg">
+<img class="devs spin" src="/images/umerica.jpg">
+<img class="devs spin" src="/images/porsh.jpg">
+</marquee>
+<h3>Links of interest</h3>
+<ul>
+<li><a href="http://doitandhow.files.wordpress.com/2011/08/coifs-dogs-09.jpg">Dog</a></li>
+<li><a href="http://horses.skule.ca/">best website</a></li>
+</ul>
+</body>
+</html>
